@@ -1,3 +1,2 @@
-# Test setup for emerse on Centos/RHEL7
-Test setup/config for emerse on Centos/RHEL7
-Ansible next?
+# Test setup for emerse
+Test setup/config for emerse
